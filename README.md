@@ -1,21 +1,40 @@
 <h1 align="center">Hi 👋, I'm Sk Amir Ullah</h1>
 <h3 align="center">Test Automation Expert | Senior Quality Assurance Engineer</h3>
-<h3 align="center">Founder, CEO | KnowMinds Technologies</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Founder | KnowMinds Technologies</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skamirullah&label=Profile%20views&color=0e75b6&style=flat" alt="skamirullah" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skamirullah" alt="skamirullah" /></a> </p>
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=flat-square&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <a href="https://x.com/sk_amirullah" target="blank"></a>
 
-- 🌱 I’m currently working on Industrial **Automation, UI, API, DB and Mobile App Automation Testing** projects.
+## 🚀 About Me  
 
-- 💬 Ask me about **Selenium, SDET, JAVA, Javascript, Cypress, PlayWright, POSTMAN, Rest Assured, Karate, Jenkins** !
+I'm **Sk Amir Ullah**, a passionate **Software Tester** and **Test Automation Expert** with expertise in **Web, API, and Mobile App Automation Testing**.  
 
-- 🤔 I’m seeking help enhancing my **Design** Skills.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 📄 Know about my experiences **https://linkedin.com/in/skamirulah**
+### 🔥 What I Do  
+I help **software professionals** to **master Software Testing & Automation** by providing hands-on training and real-world insights.  
 
-- ⚡ Fun fact **Power naps is a booster for me**
+- ✅ **Automation Testing:** Selenium, Cypress, Playwright, Rest Assured, Karate  
+- ✅ **Programming & Scripting:** Java, JavaScript, Python  
+- ✅ **CI/CD & DevOps:** Jenkins, Docker, AWS, Gitlab CI, Github Actions 
+- ✅ **Testing Tools:** Selenium, Playwright, Cypress, Rest Assured, Appium, Postman, JMeter
+- 🎓 **Training & Mentorship:** Helping testers build industry-ready automation skills  
 
-- 📫 You can reach me at **amirthoughts@gmail.com**
+### 💡 Let's Connect!  
+- 💬 **Ask me about:** Test Automation, SDET, Framework Design  
+- 📄 **Check out my experience:** [LinkedIn](https://linkedin.com/in/skamirullah)  
+- 📫 **Reach me at:** amirthoughts@gmail.com  
+
+⚡ **Fun Fact:** A good **power nap** recharges my debugging skills! 😆  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
