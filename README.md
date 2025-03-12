@@ -37,6 +37,8 @@ I help **software professionals** to **master Software Testing & Automation** by
 
 ⚡ **Fun Fact:** A good **power nap** recharges my debugging skills! 😆  
 
+### 🌟 Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
