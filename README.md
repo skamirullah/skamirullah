@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Sk Amir Ullah</h1>
 <h3 align="center">Test Automation Expert | Senior Quality Assurance Engineer</h3>
 <h3 align="center">Founder | KnowMinds Technologies</h3>
