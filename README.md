@@ -32,9 +32,15 @@ I help **software professionals** to **master Software Testing & Automation** by
 ### 💡 Let's Connect!  
 - 💬 **Ask me about:** Test Automation, SDET, Framework Design  
 - 📄 **Check out my experience:** [LinkedIn](https://linkedin.com/in/skamirullah)  
-- 📫 **Reach me at:** amirthoughts@gmail.com  
+- 📫 **Reach me at:** amirthoughts@gmail.com 
 
 ⚡ **Fun Fact:** A good **power nap** recharges my debugging skills! 😆  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
