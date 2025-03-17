@@ -19,6 +19,8 @@
 
 I'm **Sk Amir Ullah**, a passionate **Software Tester** and **Test Automation Expert** with expertise in **Web, API, and Mobile App Automation Testing**.  
 
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -26,7 +28,7 @@ I'm **Sk Amir Ullah**, a passionate **Software Tester** and **Test Automation Ex
 ### 🔥 What I Do  
 I help **software professionals** to **master Software Testing & Automation** by providing hands-on training and real-world insights.  
 
-- ✅ **Automation Testing:** Selenium, Cypress, Playwright, Rest Assured, Karate  
+- ✅ **Automation Testing:** Web Automation, API Automation, GraphQL Automation and Mobile Automation  
 - ✅ **Programming & Scripting:** Java, JavaScript, Python  
 - ✅ **CI/CD & DevOps:** Jenkins, Docker, AWS, Gitlab CI, Github Actions 
 - ✅ **Testing Tools:** Selenium, Playwright, Cypress, Rest Assured, Appium, Postman, JMeter
