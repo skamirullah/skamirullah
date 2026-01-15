@@ -36,7 +36,7 @@ I help **software professionals** to **master Software Testing & Automation** by
 ### 💡 Let's Connect!  
 - 💬 **Ask me about:** Test Automation, SDET, Framework Design  
 - 📄 **Explore my professional journey on:** **[LinkedIn](https://linkedin.com/in/skamirullah)**
-- 📫 **Reach me at:** **[Amir](amirthoughts@gmail.com)**
+- 📫 **Reach me at:** **[Amir](skamirullah.com)**
 
 ⚡ **Fun Fact:** A good **power nap** recharges my debugging skills! 😆  
 
