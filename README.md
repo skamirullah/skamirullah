@@ -33,7 +33,8 @@ I help **software professionals** to **master Software Testing & Automation** by
 - ✅ **Testing Tools:** Selenium, Playwright, Cypress, Rest Assured, Appium, Postman, JMeter
 - 🎓 **Training & Mentorship:** Helping testers build industry-ready automation skills  
 
-### 💡 Let's Connect!  
+### 💡 Let's Connect!
+- 👨‍💻 **Built **[PracticeQAAutomation](https://www.practiceqaautomation.com/)**:** A playground for practicing QA Automation with Selenium, Playwright & Cypress
 - 💬 **Ask me about:** Test Automation, SDET, Framework Design  
 - 📄 **Explore my professional journey on:** **[LinkedIn](https://linkedin.com/in/skamirullah)**
 - 📫 **Reach me at:** **[Amir](amirthoughts@gmail.com)**
