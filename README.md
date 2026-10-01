@@ -1,6 +1,6 @@
 <img src="github_banner.png" alt="GitHub Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Sk Amir Ullah</h1>
-<h3 align="center">Test Automation Expert | Senior Quality Assurance Engineer</h3>
+<h3 align="center">Test Automation Expert | Technical Lead</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skamirullah&label=Profile%20views&color=0e75b6&style=flat" alt="skamirullah" /> </p>
 
